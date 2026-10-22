@@ -3,6 +3,7 @@ b=3
 c= a+b
 d= a-b
 
+print("Reminder: ", a%b)
 a=4-2
 print(a)
 
@@ -30,3 +31,4 @@ g= not True
 print(e)
 print(f)
 print(g)
+
